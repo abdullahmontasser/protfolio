@@ -12,7 +12,7 @@ const NavItems = [
   { name: "Contact", href: "#contact" },
 ];
 
-function NabBar() {
+function NavBar() {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMenuOpened, setIsMenuOpened] = useState(false);
 
@@ -88,4 +88,4 @@ function NabBar() {
   );
 }
 
-export default NabBar;
+export default NavBar;

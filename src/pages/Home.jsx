@@ -1,4 +1,4 @@
-import NabBar from "../components/Nabbar";
+import NabBar from "../components/NavBar";
 import StarBackground from "../components/StarBackground";
 import Hero from "../components/Hero";
 import About from "../components/About";
